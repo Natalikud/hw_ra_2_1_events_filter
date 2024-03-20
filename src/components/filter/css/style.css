@@ -1,0 +1,32 @@
+.toolbar {
+    margin-top: 2%;
+    margin-left: 20%;
+  }
+  
+  .btn {
+    margin-left: 10px;
+  }
+  
+  .project_list {
+    width: 60vw;
+    margin: 0 20vw;
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .img {
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+  }
+  
+  img {
+    height: 100%;
+  }
+  
+  .active {
+    background-color: #999;
+  }
+  
